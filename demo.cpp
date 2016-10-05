@@ -1,2 +1,2 @@
 #include<stdio.h>
-echo hello
+echo hello hello
